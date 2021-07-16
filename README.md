@@ -12,7 +12,4 @@ Ejecutar los siguientes comandos.
 -  [ ] Hacer que al elegir un **option** menor al ya seleccionado no se haga una búsqueda, si no que se retiren filas.
 -  [ ] Al hacer click en **More** hacer una búsqueda aumentando el offset en función del limit (paginación).
 
-### FLOW
-![Datalake Flow](https://im.ge/i/2wxgp)
-
 #### Ejercicio creado por [Lucas Della Sala](https://www.linkedin.com/in/lucasdellasala/)
